@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conta Bancaria</string>
+    <string name="poupanca">Conta Poupança</string>
+    <string name="especial">Conta Especial</string>
+    <string name="num_conta">Número da Conta</string>
+    <string name="valor">Valor ($)</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="resultado">Resultado</string>
+    <string name="saque">Saque</string>
+    <string name="deposito">Depósito</string>
+    <string name="exibir_saldo_com_rendimento">Exibir saldo com rendimento</string>
+    <string name="exibir_dados">Exibir dados</string>
+    <string name="operacao_invalida">Operação Inválida para conta especial</string>
+    <string name="conta_invalida">Conta Inválida</string>
+</resources>
